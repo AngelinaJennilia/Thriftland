@@ -227,7 +227,7 @@ color:#583E30;
 #product1 .pro-container{
 display:flex;
 justify-content:space-between;
-padding:8px;
+padding:4px;
 }
 #product1 .pro{
 width:16%;
@@ -292,7 +292,7 @@ transition:0.2s ease;
 #product2 .pro-container1{
 display:flex;
 justify-content:space-between;
-padding:9px;
+padding:4px;
 }
 .homebutton{
 display:inline-flex;
@@ -308,7 +308,7 @@ font-family:Baskervville SC, Modern N0.20, Americana BT;
 font-size:15px;
 color:#FDF5E6;
 position:absolute;
-top:157%;
+top:153%;
 left:39%;
 cursor:pointer;
 }
