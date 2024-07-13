@@ -429,7 +429,7 @@ cursor:pointer;
 display:inline-flex;
 padding:7px;
 padding-left:2%;
-width:21%;
+width:19%;
 background:#43150B;
 border:none;
 outline:none;
@@ -456,7 +456,7 @@ font-family:Baskervville SC, Modern N0.20, Americana BT;
 font-size:15px;
 color:#FDF5E6;
 position:absolute;
-top:69%;
+top:71%;
 left:8%;
 cursor:pointer;
 }
@@ -473,7 +473,7 @@ overflow:hidden;
 font-family:Georgia;
 color:white;
 position:absolute;
-top:189%;
+top:170%;
 left:49%;
 cursor:pointer;
 }
