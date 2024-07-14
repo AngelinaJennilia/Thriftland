@@ -227,7 +227,7 @@ color:#583E30;
 #product1 .pro-container{
 display:flex;
 justify-content:space-between;
-padding:4px;
+padding:2px;
 }
 #product1 .pro{
 width:16%;
@@ -239,7 +239,7 @@ color:#583E30;
 border:2px solid #DADBDA;
 border-radius:5px;
 cursor:pointer;
-box-shadow:1px 1px 2px grey;
+box-shadow:1px 1px 1px grey;
 transition:0.2s ease;
 }
 #product1 .pro img{
@@ -286,13 +286,13 @@ color:#583E30;
 border:2px solid #DADBDA;
 border-radius:5px;
 cursor:pointer;
-box-shadow:1px 1px 2px grey;
+box-shadow:1px 1px 1px grey;
 transition:0.2s ease;
 }
 #product2 .pro-container1{
 display:flex;
 justify-content:space-between;
-padding:4px;
+padding:3px;
 }
 .homebutton{
 display:inline-flex;
