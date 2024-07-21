@@ -227,7 +227,7 @@ color:#583E30;
 #product1 .pro-container{
 display:flex;
 justify-content:space-between;
-padding:9px;
+padding:11px;
 }
 #product1 .pro{
 width:16%;
@@ -292,7 +292,7 @@ transition:0.2s ease;
 #product2 .pro-container1{
 display:flex;
 justify-content:space-between;
-padding:9px;
+padding:11px;
 }
 .homebutton{
 display:inline-flex;
